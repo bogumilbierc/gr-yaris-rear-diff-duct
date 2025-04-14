@@ -1,4 +1,4 @@
-# gr-yaris-rear-diff-duct
+# Toyota GR Yaris rear diff cooling duct
 
 3D printable rear diff duct for GR Yaris.
 Loosely based on Airtec diff cooler.
