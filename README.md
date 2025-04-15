@@ -18,6 +18,12 @@ Main body can be split in slicer into two halves to avoid filament waste on supp
 
 Other pieces are a press/snap fit, but glue is recommended to keep it all in one big piece.
 
+### Parts:
+- Inlet - cutout holes for main body are already bigger, to account for printer tolerances (as scaling this part in slicer would be hard)
+- RearHanger - probably safest to scale it to 102-103 %
+- Outlet - probably safest to scale it to 99%
+- MainBody - print "as is"
+
 **Bear in mind that due to printer's tolerance - You might need to scale some parts up/down.**
 
 ## Preview
