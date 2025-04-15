@@ -6,6 +6,11 @@ Loosely based on Airtec diff cooler.
 ## Technologies
 - FreeCad
 
+## Flavours
+There are two flavours of this duct:
+- ThinBoi with 1mm walls on main body and thicker walls elsewhere
+- ThickBoi with 2mm walls on main body and **even thicker** walls elsewhere
+
 ## Printing
 Part in split into separate bodies, but large printer is required for main bit. Idealy something around 45x45 (like Qidi X-MAX3).
 
