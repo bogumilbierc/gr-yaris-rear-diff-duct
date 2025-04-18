@@ -28,8 +28,15 @@ Other pieces are a press/snap fit, but glue is recommended to keep it all in one
 
 ## Preview
 
-### Model
-![duct freecad image](./docs/preview.png)
+### ThinBoi
+
+#### Model
+![thinboi duct freecad image](./docs/preview-thin-boi.png)
+
+### ThickBoi
+
+#### Model
+![thickboi duct freecad image](./docs/preview-thick-boi.png)
 
 
 ## Topics
