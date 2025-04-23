@@ -40,7 +40,7 @@ Other pieces are a press/snap fit, but glue is recommended to keep it all in one
 
 ## Additional hardware required to mount it to the car
 - M6x20mm bolt (head length excluded)
-- M6x90mm bolt (head length excluded)
+- M6x80mm bolt (head length excluded)
 - M6 self locking nut
 - 3 wide M6 washers
 
