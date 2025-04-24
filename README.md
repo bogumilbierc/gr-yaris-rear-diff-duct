@@ -12,7 +12,7 @@ There are two flavours of this duct:
 - ThickBoi with 2mm walls on main body and **even thicker** walls elsewhere
 
 ## Printing
-Part in split into separate bodies, but large printer is required for main bit. Idealy something around 45x45 (like Qidi X-MAX3).
+Part in split into separate bodies, but large printer is required for main bit. Idealy something around 35x35 (like Qidi X-MAX3).
 
 Main body can be split in slicer into two halves to avoid filament waste on supports. There is a lip on the edge which allows to either plastic-weld it with soldering iron or to glue it together.
 
