@@ -22,7 +22,7 @@ Other pieces are a press/snap fit, but glue is recommended to keep it all in one
 - Inlet - cutout holes for main body are already bigger, to account for printer tolerances (as scaling this part in slicer would be hard)
 - RearHanger - probably safest to scale it to 102-103 %
 - Outlet - probably safest to scale it to 99%
-- MainBody - print "as is"
+- MainBody - print "as is" (to avoid supports and wasting a lot of filament - slice it in half (when laying flat) - it has a 4mm flange alongside the body, so You can later on glue it together at that flange)
 
 **Bear in mind that due to printer's tolerance - You might need to scale some parts up/down.**
 
